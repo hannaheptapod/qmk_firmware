@@ -42,3 +42,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define RGB_MATRIX_DEFAULT_MODE             RGB_MATRIX_CYCLE_LEFT_RIGHT
 #define RGB_DISABLE_WHEN_USB_SUSPENDED
+
+#define TAPPING_TERM                        100
+#define RETRO_TAPPING
